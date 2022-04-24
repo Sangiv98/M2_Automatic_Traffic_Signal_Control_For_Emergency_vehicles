@@ -19,9 +19,9 @@
 
 
 ## Introduction 
--Now a days the rate of Contineous usage of ambulance around our city has been increased a lot.
--So to avoid Ambulance to wait in a siganl if the signal is in Red sign, we can implement this project around our cities 
-to make sure that ambulance or any other emergency vehicals need not wait until the particular signal turns green.
+-Now a days the rate of Continuous usage of ambulance around our city has been increased a lot.
+-So to avoid Ambulance to wait in a signal if the signal is in Red sign, we can implement this project around our cities 
+to make sure that ambulance or any other emergency vehicels need not wait until the particular signal turns green.
 
 ##Features
 -The main  feature of this project is to avoid the wait time of an emergency vehical in a traffic signal.
